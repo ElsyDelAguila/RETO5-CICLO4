@@ -1,0 +1,16 @@
+MadreSelvaCosmetics5\controller\Cosmetics5Controller.class
+MadreSelvaCosmetics5\controller\OrderController.class
+MadreSelvaCosmetics5\repository\crud\Cosmetics5CrudRepository.class
+MadreSelvaCosmetics5\Cosmetics5Application.class
+MadreSelvaCosmetics5\service\UserService.class
+MadreSelvaCosmetics5\controller\UserController.class
+MadreSelvaCosmetics5\model\Order.class
+MadreSelvaCosmetics5\service\Cosmetics5Service.class
+MadreSelvaCosmetics5\repository\OrderRepository.class
+MadreSelvaCosmetics5\model\User.class
+MadreSelvaCosmetics5\repository\Cosmetics5Repository.class
+MadreSelvaCosmetics5\repository\UserRepository.class
+MadreSelvaCosmetics5\repository\crud\OrderCrudRepository.class
+MadreSelvaCosmetics5\model\Cosmetics5.class
+MadreSelvaCosmetics5\service\OrderService.class
+MadreSelvaCosmetics5\repository\crud\UserCrudRepository.class
